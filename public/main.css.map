@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/styles/_global.scss"],"names":[],"mappings":"AAAA,KACI,SACA,sBACA,WACA,e","file":"main.css","sourcesContent":["body {\n    margin: 0;\n    background-color: yellow;\n    color: black;\n    font-size: 58px;\n}"],"sourceRoot":""}

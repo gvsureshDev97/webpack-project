@@ -1,3 +1,5 @@
+import "./styles/index.scss";
+
 const employee = {
     name:"Suresh Gv",
 }
